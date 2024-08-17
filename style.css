@@ -63,6 +63,7 @@ nav ul li:hover{
 main{
     max-width: 1200px;
     margin-inline: auto; 
+    padding: 10px 15px;
 }
 
 #hero{
